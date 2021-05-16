@@ -6,4 +6,4 @@ Se ha generado un fichero .zip concatenando el valor de la columna 'Id' con el v
 
 Todo el código está escrito en Python utilizando `notebook` de Jupyter.
 
-Palabras clave (Python, Análisis exploratorio de datos, Plotly, Seaborn, Pandas)
+**Palabras clave (Python, Análisis exploratorio de datos, Plotly, Seaborn, Pandas)
